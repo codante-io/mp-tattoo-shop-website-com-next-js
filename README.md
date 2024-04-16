@@ -1,29 +1,28 @@
-# Nome do Mini Projeto
+# Tattoo Shop - Website com Next.js
 
-(um parágrafo explicando)
+Inicie sua prática com Next.js criando uma página comercial de um tatuador hipotético chamado Sandro Luz. Crie, do começo ao fim, um projeto Next.js. 
 
 ## 🤓 Antes de começar
 
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+Neste Mini Projeto não há template / boilerplate inicial. Você deverá começar o projeto do zero. 
 
 ## 🔨 Requisitos
 
-- Requisito 1
-- Requisito 2
-
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
-
-- Requisito 3
-- ...
+- Inicialize o projeto do zero usando o `create-next-app`
+- Crie 4 páginas para a "Sandro Luz Tattoo Shop"
+  - Home
+  - Serviços
+  - Sobre
+  - Contato
+- Utilize todos os recursos nativos do Next.js tais como: next/link, next/image, next/font;
+- O botão de contato (tanto na navbar como na página de contato) deverá ser um link para a funcionalidade [conversa em um clique](https://faq.whatsapp.com/5913398998672934) do Whatsapp. Este link deverá abrir em uma nova página;
+- Utilize o App Router (em detrimento do Pages Router);
+- Utilize as imagens diretamente do figma (exportando-as);
+- Como sugestão, faça o CSS usando TailwindCSS. 
 
 ## 🔨 Desafio extra para quem quer ir além
 
-(Essa seção é opcional)
-
-- Requisito extra 1. 
-- Requisito extra 2.
+- Adicione alguma animação. Pode ser na própria imagem e textos da home ou na navbar, ao trocar de link, por exemplo.  
 
 ## 🎨 Design Sugerido
 
@@ -31,21 +30,26 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design]()
+🔗 [Link do design](https://www.figma.com/community/file/1362183399183292915/mini-projeto-tattoo-shop-website-com-next-js)
 
 ## 👉🏽 Sobre esse mini-projeto
 
 ### O que você irá praticar:
 
-#### React
+#### Next.js
 
-- Habilidade 1 do React
-- Habilidade 2
+- create-next-app
+- next/link
+- next/fonts
+- next/images
+- App Router
+- Nested Routes e Layouts
+- Server components
 
 #### TailwindCSS
 
-- Habilidade 1 do TailwindCSS
+- Design "pixel-perfect" com TailwindCSS
 
 ### Pré requisitos
 
-(coloque aqui se houver algum)
+Nenhum pré requisito com Next.js. Conhecimento de React básico é necessário. 
