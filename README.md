@@ -14,7 +14,7 @@ Neste mini projeto não há template/boilerplate inicial. Você deverá começar
   - Serviços
   - Sobre
   - Contato
-- Utilize todos os recursos nativos do Next.js, tais como: next/link, next/image, next/font;
+- Utilize todos os recursos nativos do Next.js, tais como: `next/link`, `next/image`, `next/font`;
 - O botão de contato (tanto na navbar quanto na página de contato) deverá ser um link para a funcionalidade [conversa em um clique](https://faq.whatsapp.com/5913398998672934) do WhatsApp. Este link deverá abrir em uma nova página;
 - Utilize o App Router (em detrimento do Pages Router);
 - Utilize as imagens diretamente do Figma (exportando-as);
@@ -38,10 +38,10 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 #### Next.js
 
-- create-next-app
-- next/link
-- next/image
-- next/font
+- `create-next-app`
+- `next/link`
+- `next/image`
+- `next/font`
 - App Router
 - Nested Routes e Layouts
 - Server components
